@@ -32,7 +32,7 @@ function Hello() {
             <span role="img" aria-label="folded hands">
               🙏
             </span>
-            Donate
+            Donate me
           </button>
         </a>
       </div>
